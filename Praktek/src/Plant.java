@@ -1,7 +1,7 @@
 
 public class Plant {
 
-    private String name;
+    public String name;
 
     public String getName() {
         return name;
